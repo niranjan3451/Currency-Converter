@@ -1,2 +1,6 @@
-# Currency-Converter
-Currency Converter using Python
+Currency-Converter-Tkinter
+About:
+
+Simple Currency converter GUI using Python and Tkinter.
+
+Output:
